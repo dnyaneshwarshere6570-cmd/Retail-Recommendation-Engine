@@ -1,0 +1,101 @@
+Order ID,Customer ID,Gender,Age,Product Category,Product Name,Quantity,Price,Payment Method,City,Rating
+ORD0001,CUST9376,Female,43,Home,Lamp,1,1368.69,Cash on Delivery,Hyderabad,3
+ORD0002,CUST3289,Male,57,Toys,Lego Set,5,782.44,Cash on Delivery,Chennai,5
+ORD0003,CUST6409,Female,53,Clothing,Jacket,1,3676.18,Credit Card,Bangalore,4
+ORD0004,CUST8815,Female,51,Beauty,Perfume,2,4836.37,Cash on Delivery,Mumbai,5
+ORD0005,CUST1018,Female,39,Electronics,Smartphone,4,3580.24,UPI,Kolkata,3
+ORD0006,CUST4632,Male,27,Books,Fiction,2,4593.39,Netbanking,Mumbai,1
+ORD0007,CUST5769,Male,53,Beauty,Perfume,4,634.38,Cash on Delivery,Chennai,2
+ORD0008,CUST2501,Female,38,Toys,Action Figure,5,1509.52,UPI,Bangalore,2
+ORD0009,CUST5260,Female,22,Clothing,Jeans,1,3102.59,Credit Card,Kolkata,2
+ORD0010,CUST9857,Female,51,Clothing,T-Shirt,1,4501.05,Cash on Delivery,Chennai,2
+ORD0011,CUST9071,Female,23,Clothing,Dress,5,1448.53,Cash on Delivery,Chennai,1
+ORD0012,CUST4981,Male,35,Home,Curtains,3,4240.88,Credit Card,Kolkata,2
+ORD0013,CUST2018,Male,27,Beauty,Lipstick,3,2188.04,UPI,Mumbai,5
+ORD0014,CUST1437,Male,58,Books,Comics,5,3434.89,UPI,Chennai,5
+ORD0015,CUST2901,Male,56,Electronics,Smartwatch,1,1913.69,Credit Card,Delhi,2
+ORD0016,CUST2000,Male,52,Books,Fiction,4,1131.82,Netbanking,Chennai,1
+ORD0017,CUST5932,Female,45,Beauty,Lipstick,2,452.66,UPI,Mumbai,5
+ORD0018,CUST7410,Male,34,Home,Cookware Set,5,594.51,Cash on Delivery,Kolkata,4
+ORD0019,CUST1951,Male,28,Toys,Lego Set,2,4836.09,Cash on Delivery,Chennai,3
+ORD0020,CUST7715,Female,59,Electronics,Smartwatch,2,164.7,Cash on Delivery,Hyderabad,3
+ORD0021,CUST6503,Male,52,Clothing,T-Shirt,4,3733.71,Cash on Delivery,Delhi,2
+ORD0022,CUST6885,Male,37,Home,Lamp,5,1510.6,Netbanking,Kolkata,4
+ORD0023,CUST6478,Male,33,Books,Fiction,1,3013.43,UPI,Kolkata,4
+ORD0024,CUST1516,Female,54,Home,Curtains,5,4385.23,Netbanking,Kolkata,1
+ORD0025,CUST3583,Female,51,Clothing,Dress,1,1370.21,Netbanking,Chennai,5
+ORD0026,CUST8649,Male,44,Electronics,Smartphone,4,1697.13,UPI,Chennai,1
+ORD0027,CUST7840,Female,18,Books,Fiction,1,2068.9,UPI,Mumbai,1
+ORD0028,CUST2948,Male,37,Books,Comics,5,579.14,Cash on Delivery,Kolkata,2
+ORD0029,CUST1357,Female,46,Electronics,Smartwatch,4,3175.43,Credit Card,Bangalore,2
+ORD0030,CUST3530,Female,19,Books,Comics,3,664.04,Credit Card,Mumbai,2
+ORD0031,CUST7011,Male,56,Books,Biography,5,1642.09,Netbanking,Kolkata,4
+ORD0032,CUST3921,Male,42,Books,Biography,3,4369.91,Cash on Delivery,Mumbai,2
+ORD0033,CUST7016,Male,39,Clothing,Jacket,3,1753.8,Credit Card,Mumbai,3
+ORD0034,CUST7468,Male,36,Clothing,Jeans,5,1518.7,Credit Card,Hyderabad,2
+ORD0035,CUST2161,Female,43,Electronics,Headphones,2,4299.48,Cash on Delivery,Bangalore,4
+ORD0036,CUST8766,Female,39,Electronics,Smartphone,5,4552.42,Credit Card,Hyderabad,1
+ORD0037,CUST6489,Male,28,Books,Biography,4,285.34,Netbanking,Kolkata,1
+ORD0038,CUST2001,Female,18,Electronics,Smartphone,2,3774.36,Credit Card,Hyderabad,5
+ORD0039,CUST4559,Female,23,Toys,Puzzle,4,4608.75,Cash on Delivery,Delhi,3
+ORD0040,CUST2884,Male,19,Toys,Lego Set,4,1040.53,Netbanking,Kolkata,2
+ORD0041,CUST1689,Male,57,Electronics,Smartwatch,4,1356.75,UPI,Mumbai,2
+ORD0042,CUST3479,Male,56,Home,Lamp,3,2777.32,Netbanking,Delhi,5
+ORD0043,CUST9116,Female,49,Home,Curtains,4,4400.52,Netbanking,Kolkata,2
+ORD0044,CUST6214,Female,20,Toys,Action Figure,2,147.55,UPI,Bangalore,5
+ORD0045,CUST8707,Male,23,Clothing,Dress,5,1542.47,Credit Card,Mumbai,2
+ORD0046,CUST8349,Female,28,Clothing,T-Shirt,3,174.9,UPI,Kolkata,4
+ORD0047,CUST9231,Male,54,Beauty,Perfume,4,4515.34,Credit Card,Kolkata,5
+ORD0048,CUST4376,Female,52,Toys,Lego Set,4,4538.33,Netbanking,Hyderabad,4
+ORD0049,CUST1335,Male,29,Toys,Action Figure,2,4271.45,Cash on Delivery,Chennai,5
+ORD0050,CUST5292,Female,44,Beauty,Face Cream,1,2518.2,Netbanking,Hyderabad,1
+ORD0051,CUST6472,Male,20,Clothing,Jeans,2,1506.73,Netbanking,Hyderabad,2
+ORD0052,CUST3480,Female,44,Home,Curtains,1,3400.36,Credit Card,Chennai,4
+ORD0053,CUST3480,Male,20,Home,Lamp,1,597.25,UPI,Kolkata,3
+ORD0054,CUST9033,Male,21,Electronics,Headphones,2,1978.73,Netbanking,Chennai,3
+ORD0055,CUST3082,Female,36,Books,Fiction,5,1552.29,Credit Card,Chennai,2
+ORD0056,CUST4120,Female,40,Electronics,Smartwatch,4,1920.75,Credit Card,Mumbai,1
+ORD0057,CUST4538,Male,23,Home,Lamp,1,4729.44,Netbanking,Chennai,3
+ORD0058,CUST7914,Male,24,Electronics,Laptop,4,4470.03,Netbanking,Mumbai,1
+ORD0059,CUST8062,Female,19,Home,Cookware Set,1,3977.58,Netbanking,Bangalore,3
+ORD0060,CUST1481,Female,40,Electronics,Headphones,1,694.75,UPI,Mumbai,2
+ORD0061,CUST4407,Male,31,Beauty,Lipstick,5,4477.83,Credit Card,Kolkata,1
+ORD0062,CUST4815,Male,29,Beauty,Face Cream,1,4670.66,Netbanking,Mumbai,4
+ORD0063,CUST4409,Female,39,Beauty,Perfume,3,737.77,Netbanking,Bangalore,3
+ORD0064,CUST2323,Male,52,Toys,Action Figure,3,1001.82,Cash on Delivery,Delhi,4
+ORD0065,CUST4978,Male,29,Clothing,Jeans,2,1647.87,Cash on Delivery,Bangalore,4
+ORD0066,CUST7452,Male,22,Books,Fiction,2,3045.92,UPI,Hyderabad,3
+ORD0067,CUST5882,Female,23,Toys,Puzzle,2,2996.27,UPI,Hyderabad,3
+ORD0068,CUST1138,Female,38,Books,Comics,1,1944.52,Netbanking,Delhi,3
+ORD0069,CUST2779,Female,25,Beauty,Face Cream,1,4756.31,UPI,Kolkata,4
+ORD0070,CUST5062,Female,39,Home,Cookware Set,4,2215.41,UPI,Bangalore,4
+ORD0071,CUST4336,Female,18,Books,Comics,1,2468.11,Netbanking,Chennai,4
+ORD0072,CUST5934,Male,45,Electronics,Laptop,3,660.84,Netbanking,Mumbai,4
+ORD0073,CUST1354,Male,35,Clothing,Dress,3,3197.12,Credit Card,Mumbai,3
+ORD0074,CUST8284,Male,34,Home,Curtains,5,3578.83,Cash on Delivery,Bangalore,2
+ORD0075,CUST5300,Female,52,Toys,Lego Set,1,445.23,Cash on Delivery,Mumbai,5
+ORD0076,CUST5746,Female,51,Clothing,Jeans,1,2132.67,UPI,Chennai,5
+ORD0077,CUST9905,Female,35,Books,Fiction,5,616.0,Cash on Delivery,Hyderabad,3
+ORD0078,CUST2974,Female,43,Toys,Action Figure,2,869.64,Netbanking,Delhi,5
+ORD0079,CUST7801,Male,48,Books,Biography,3,3197.35,Netbanking,Kolkata,5
+ORD0080,CUST3339,Female,21,Beauty,Face Cream,1,2275.51,UPI,Mumbai,3
+ORD0081,CUST2088,Male,60,Home,Lamp,1,4246.5,Netbanking,Mumbai,3
+ORD0082,CUST5429,Female,32,Electronics,Smartphone,5,118.33,UPI,Chennai,3
+ORD0083,CUST6409,Female,28,Clothing,T-Shirt,4,2358.38,Cash on Delivery,Hyderabad,4
+ORD0084,CUST3117,Male,29,Clothing,Dress,2,2668.39,Netbanking,Bangalore,4
+ORD0085,CUST4214,Female,31,Home,Lamp,4,3675.94,Credit Card,Hyderabad,1
+ORD0086,CUST3840,Male,57,Clothing,T-Shirt,2,1881.69,Cash on Delivery,Chennai,1
+ORD0087,CUST6784,Female,47,Books,Comics,3,3880.01,Credit Card,Kolkata,5
+ORD0088,CUST8055,Female,49,Books,Comics,5,4655.82,Cash on Delivery,Kolkata,4
+ORD0089,CUST1861,Male,40,Clothing,Jacket,3,306.95,Credit Card,Bangalore,1
+ORD0090,CUST7496,Male,47,Clothing,T-Shirt,4,3434.47,UPI,Bangalore,5
+ORD0091,CUST8466,Female,34,Electronics,Smartphone,3,1682.35,Credit Card,Chennai,1
+ORD0092,CUST9593,Female,30,Clothing,Jacket,1,1127.0,UPI,Bangalore,3
+ORD0093,CUST6635,Male,20,Beauty,Perfume,4,1347.73,Cash on Delivery,Chennai,1
+ORD0094,CUST1777,Female,49,Electronics,Smartwatch,4,3650.56,Netbanking,Hyderabad,1
+ORD0095,CUST3519,Female,31,Electronics,Smartphone,2,583.78,Netbanking,Chennai,1
+ORD0096,CUST3955,Male,49,Home,Curtains,4,292.82,UPI,Delhi,3
+ORD0097,CUST5677,Male,36,Beauty,Face Cream,4,625.7,Netbanking,Chennai,5
+ORD0098,CUST1271,Male,57,Home,Curtains,3,1435.48,Credit Card,Delhi,4
+ORD0099,CUST1105,Female,21,Clothing,Jeans,3,4410.96,Credit Card,Hyderabad,3
+ORD0100,CUST9956,Female,32,Electronics,Headphones,2,3406.92,UPI,Mumbai,5
